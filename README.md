@@ -39,13 +39,14 @@ Implemented a computer vision application using OpenCV and Haar Cascade classifi
 ### Programming Languages
 
 * Python
-* SQL
-* JavaScript
+* C++
+* Java
 
 ### Web Development
 
 * HTML
 * CSS
+* JavaScript
 * Flask
 
 ### Data Analytics & Machine Learning
@@ -81,6 +82,9 @@ Implemented a computer vision application using OpenCV and Haar Cascade classifi
 * Google Advanced Data Analytics Professional Certificate
 * NPTEL – Python for Data Science
 * NCAT Participation Certificate
+* GenAI Data Analytics Job Simulation - Forage
+* Google Cloud Arcade Certificate — Unstop
+
 
 ---
 
