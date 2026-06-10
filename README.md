@@ -65,6 +65,7 @@ Implemented a computer vision application using OpenCV and Haar Cascade classifi
 ### Database
 
 * SQLite
+* MySQL
 
 ### Tools
 
