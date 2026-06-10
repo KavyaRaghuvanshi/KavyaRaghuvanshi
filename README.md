@@ -8,9 +8,23 @@ I enjoy transforming data into actionable insights and developing projects that 
 
 ---
 
-## 🎓 Education
+## 🚀 Featured Projects
 
-* BCA (Artificial Intelligence & Machine Learning)
+### 🤖 AI-Powered Smart Interaction System
+
+An AI-based desktop automation system integrating gesture recognition, emotion detection, voice interaction, analytics dashboard, and automation using OpenCV, MediaPipe, TensorFlow, Flask, and SQLite.
+
+### 👥 HR Employee Attrition Analysis
+
+Performed exploratory data analysis and machine learning to identify factors influencing employee turnover and provide business insights for employee retention.
+
+### 🌸 Iris Flower Classification
+
+Built a Random Forest Machine Learning model to classify iris flowers into different species with high accuracy.
+
+### 👁️ Real-Time Eye Detection
+
+Implemented real-time eye detection using OpenCV and Haar Cascade classifiers for computer vision applications.
 
 ---
 
@@ -60,26 +74,6 @@ I enjoy transforming data into actionable insights and developing projects that 
 * Google Advanced Data Analytics Professional Certificate
 * NPTEL – Python for Data Science
 * NCAT Participation Certificate
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI-Powered Smart Interaction System
-
-An AI-based desktop automation system integrating gesture recognition, emotion detection, voice interaction, analytics dashboard, and automation using OpenCV, MediaPipe, TensorFlow, Flask, and SQLite.
-
-### 👥 HR Employee Attrition Analysis
-
-Performed exploratory data analysis and machine learning to identify factors influencing employee turnover and provide business insights for employee retention.
-
-### 🌸 Iris Flower Classification
-
-Built a Random Forest Machine Learning model to classify iris flowers into different species with high accuracy.
-
-### 👁️ Real-Time Eye Detection
-
-Implemented real-time eye detection using OpenCV and Haar Cascade classifiers for computer vision applications.
 
 ---
 
