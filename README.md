@@ -2,29 +2,35 @@
 
 ### 🚀 AI & ML Student | Aspiring AI Engineer | Data Analyst | Python Developer
 
-I'm a BCA (Artificial Intelligence & Machine Learning) student passionate about building intelligent solutions using Artificial Intelligence, Machine Learning, Data Analytics, Computer Vision, and Automation.
+BCA (Artificial Intelligence & Machine Learning) Student with a strong interest in Artificial Intelligence, Machine Learning, Data Analytics, Computer Vision, and Software Development. Passionate about building data-driven solutions and applying technology to solve real-world problems.
 
-I enjoy transforming data into actionable insights and developing projects that solve real-world problems through technology.
+## About Me
 
+* Pursuing BCA in Artificial Intelligence & Machine Learning
+* Skilled in Python, SQL, Machine Learning, Data Analytics, and Flask
+* Experience with OpenCV, TensorFlow, MediaPipe, and SQLite
+* Certified in Google Advanced Data Analytics and Python for Data Science
+* Actively developing projects in AI, Computer Vision, Automation, and Data Science
+* Seeking opportunities in AI Engineering, Data Analytics, Data Science, and Software Development
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤖 AI-Powered Smart Interaction System
 
-An AI-based desktop automation system integrating gesture recognition, emotion detection, voice interaction, analytics dashboard, and automation using OpenCV, MediaPipe, TensorFlow, Flask, and SQLite.
+Developed an AI-powered desktop interaction platform that combines hand gesture recognition, emotion detection, voice assistance, and desktop automation. Built using Python, OpenCV, MediaPipe, TensorFlow, Flask, and SQLite to create a seamless human-computer interaction experience.
 
 ### 👥 HR Employee Attrition Analysis
 
-Performed exploratory data analysis and machine learning to identify factors influencing employee turnover and provide business insights for employee retention.
+Conducted exploratory data analysis and machine learning on HR employee data to identify factors influencing employee turnover. Generated actionable insights related to overtime, job satisfaction, and work-life balance to support data-driven HR decision-making.
 
 ### 🌸 Iris Flower Classification
 
-Built a Random Forest Machine Learning model to classify iris flowers into different species with high accuracy.
+Built a supervised machine learning model using the Random Forest algorithm to classify iris flowers into different species. Achieved high prediction accuracy while demonstrating data preprocessing, model training, evaluation, and feature importance analysis.
 
 ### 👁️ Real-Time Eye Detection
 
-Implemented real-time eye detection using OpenCV and Haar Cascade classifiers for computer vision applications.
+Implemented a computer vision application using OpenCV and Haar Cascade classifiers to detect human eyes in real time through webcam input. The project demonstrates object detection, image processing, and real-time video analysis techniques.
 
 ---
 
